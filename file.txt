@@ -6,3 +6,4 @@ change 5 new-feature commit 3
 change 6 new-feature commit 4
 change 7 master branch commit
 change 8 new-feature-1 commit 1
+change 9 new-feature-1 commit 2
